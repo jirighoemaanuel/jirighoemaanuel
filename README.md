@@ -1,4 +1,5 @@
 “The purpose of software is to make the complex appear simple.”
+
 I am a software engineer focused on creating clarity from chaos. I believe the best code isn't just functional, it's understandable.
 - My primary focus is forging Kí, a suite of developer tools designed to unlock simplicity in the tech landscape.
 - I build open-source keys, not just tools. Each library is crafted to solve a specific, often frustrating, local development challenge.
